@@ -24,7 +24,7 @@ const HomePage = () => {
       title: "Tafo Site",
       description: "A beautiful 4-bedroom family home with a spacious backyard and contemporary design throughout.",
       images: [
-        "images/tafo1.jpg",
+        "images/tafo2",
         "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800",
         "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=800"
       ]
