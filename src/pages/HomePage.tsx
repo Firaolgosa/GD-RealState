@@ -73,8 +73,8 @@ const HomePage = () => {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-6xl font-bold mb-6 leading-tight"
           >
-            Looking for your GD RealState?<br />
-            <span className="text-gray-200">Let's find it together.</span>
+            {/* Looking for your Dream home<br />
+            <span className="text-gray-200">Let's find it together.</span> */}
           </motion.h1>
           
           <motion.p
@@ -83,7 +83,8 @@ const HomePage = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-xl md:text-2xl mb-8 text-gray-200"
           >
-            We make real estate simple, personal, and stress-free.
+Looking for your Dream home? <br />
+<span className="text-gray-200">Let's find it together.</span>
           </motion.p>
           
           <motion.div
