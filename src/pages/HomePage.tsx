@@ -11,7 +11,7 @@ const HomePage = () => {
   const featuredProjects = [
     {
       id: 1,
-      title: "Luxury Downtown Loft",
+      title: "Minarole Site",
       description: "A stunning 2-bedroom loft in the heart of the city with floor-to-ceiling windows and modern amenities.",
       images: [
         "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800",
@@ -21,7 +21,7 @@ const HomePage = () => {
     },
     {
       id: 2,
-      title: "Modern Family Home",
+      title: "Tafo Site",
       description: "A beautiful 4-bedroom family home with a spacious backyard and contemporary design throughout.",
       images: [
         "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800",
