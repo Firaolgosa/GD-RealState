@@ -113,7 +113,7 @@ const HomePage = () => {
               viewport={{ once: true }}
             >
               <img
-                src="https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=800"
+               src="/images/GezuPhoto.jpg"
                 alt="Our team"
                 className="rounded-lg shadow-lg w-full h-96 object-cover"
               />
