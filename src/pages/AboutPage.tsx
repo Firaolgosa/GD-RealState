@@ -164,23 +164,23 @@ const AboutPage = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                name: "Sarah Johnson",
-                role: "Founder & Lead Agent",
-                image: "https://images.pexels.com/photos/3184317/pexels-photo-3184317.jpeg?auto=compress&cs=tinysrgb&w=400",
+                name: "Genzebe Dibaba",
+                role: "Founder & Lead",
+                image: "images/gezu.jpg",
                 bio: "Sarah brings 12 years of real estate expertise and an infectious enthusiasm for helping people find their perfect homes."
               },
               {
                 name: "Michael Chen",
-                role: "Market Analyst",
-                image: "https://images.pexels.com/photos/3184318/pexels-photo-3184318.jpeg?auto=compress&cs=tinysrgb&w=400",
+                role: "Ceo",
+                image: "images/tuj.jpg",
                 bio: "Michael's data-driven approach and local market knowledge help clients make informed decisions with confidence."
               },
-              {
-                name: "Emma Rodriguez",
-                role: "Client Relations",
-                image: "https://images.pexels.com/photos/3184319/pexels-photo-3184319.jpeg?auto=compress&cs=tinysrgb&w=400",
-                bio: "Emma ensures every client feels heard, valued, and supported throughout their entire real estate journey."
-              }
+              // {
+              //   name: "Leul",
+              //   role: "Client Relations",
+              //   image: "https://images.pexels.com/photos/3184319/pexels-photo-3184319.jpeg?auto=compress&cs=tinysrgb&w=400",
+              //   bio: "Emma ensures every client feels heard, valued, and supported throughout their entire real estate journey."
+              // }
             ].map((member, index) => (
               <motion.div
                 key={index}
