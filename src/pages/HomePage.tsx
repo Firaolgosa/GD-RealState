@@ -14,7 +14,7 @@ const HomePage = () => {
       title: "Minarole Site",
       description: "A stunning 2-bedroom loft in the heart of the city with floor-to-ceiling windows and modern amenities.",
       images: [
-        "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "images/tafo.jpg",
         "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
         "https://images.pexels.com/photos/1571471/pexels-photo-1571471.jpeg?auto=compress&cs=tinysrgb&w=800"
       ]
@@ -24,7 +24,7 @@ const HomePage = () => {
       title: "Tafo Site",
       description: "A beautiful 4-bedroom family home with a spacious backyard and contemporary design throughout.",
       images: [
-        "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "images/tafo1.jpg",
         "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800",
         "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=800"
       ]
