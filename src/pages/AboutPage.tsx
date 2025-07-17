@@ -170,7 +170,7 @@ const AboutPage = () => {
                 bio: "Sarah brings 12 years of real estate expertise and an infectious enthusiasm for helping people find their perfect homes."
               },
               {
-                name: "Michael Chen",
+                name: "Tujuba kena",
                 role: "Ceo",
                 image: "images/tuj.jpg",
                 bio: "Michael's data-driven approach and local market knowledge help clients make informed decisions with confidence."
