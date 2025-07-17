@@ -7,13 +7,13 @@ const ProjectsPage = () => {
   const projects = [
     {
       id: 1,
-      title: "Luxury Downtown Loft",
-      location: "Downtown District",
+      title: "Minarole Site",
+      location: "Infront of Englise Embassy",
       price: "$850,000",
       bedrooms: 2,
       bathrooms: 2,
       sqft: 1200,
-      image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/images/tafo.jpg",
       description: "Experience urban luxury in this stunning 2-bedroom loft featuring floor-to-ceiling windows, premium finishes, and breathtaking city views. Located in the heart of downtown with easy access to dining, shopping, and entertainment. This architectural masterpiece combines modern design with timeless elegance."
     },
     {
